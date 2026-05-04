@@ -2,9 +2,9 @@
 
 Addon todo en uno para contenido en castellano: TDT, RTVE a la carta, YouTube, Dailymotion, radio, podcasts, top películas y series, filmoteca, prensa, música, documentales, audiolibros, noticias, meteorología, agenda deportiva, mercados, precio de la luz, gasolineras, tráfico (DGT) y mucho más.
 
-## Fuente e instalación
+## Fuente e instrucciones de instalación
 
-Fuente e instrucciones de instalación: [https://espakodi.github.io/espatv/](https://espakodi.github.io/espatv/)
+[https://espakodi.github.io/espatv/](https://espakodi.github.io/espatv/)
 
 ## Instalación paso a paso
 
