@@ -1,5 +1,9 @@
 # EspaTV - Repositorio para Kodi
 
+
+- Fuente e instrucciones de instalación: [https://espakodi.github.io/espatv/](https://espakodi.github.io/espatv/)
+
+
 ## Verificación de integridad EspaTV 2.0.0
 
 - MD5:    592e69d91748d18506c6b141fa2aa985
@@ -30,10 +34,6 @@ Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualiza
 <p align="left">
   <img src="imagenes/caracteristicas.png" alt="Características del addon">
 </p>
-
-## Repositorio y fuente
-
-- Fuente para Kodi: `https://espakodi.github.io/espatv/`
 
 ## Contacto y Soporte
 
