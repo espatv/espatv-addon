@@ -2,13 +2,9 @@
 
 Addon todo en uno para contenido en castellano: TDT, RTVE a la carta, YouTube, Dailymotion, radio, podcasts, top películas y series, filmoteca, prensa, música, documentales, audiolibros, noticias, meteorología, agenda deportiva, mercados, precio de la luz, gasolineras, tráfico (DGT) y mucho más.
 
----
-
 ## Fuente e instalación
 
 Fuente para Kodi e instrucciones de instalación: [https://espakodi.github.io/espatv/](https://espakodi.github.io/espatv/)
-
----
 
 ## Instalación paso a paso
 
@@ -27,8 +23,6 @@ Fuente para Kodi e instrucciones de instalación: [https://espakodi.github.io/es
 1. Descarga el `.zip` desde [github.com/fullstackcurso/espatv/releases](https://github.com/fullstackcurso/espatv/releases)
 2. En Kodi ve a **Add-ons** → icono de paquete → **Instalar desde archivo ZIP** → selecciona el archivo
 
----
-
 ## Verificación de integridad — v2.0.0
 
 ```
@@ -36,24 +30,16 @@ MD5:    592e69d91748d18506c6b141fa2aa985
 SHA256: 82128a584d0f8d10fdd127405f3af8322ae58b9d402389075374b696c71b43de
 ```
 
----
-
-<p align="center">
+<p align="left">
   <img src="imagenes/caracteristicas.png" alt="Características del addon">
 </p>
-
----
 
 ## Contacto
 
 - Telegram: [t.me/rubensdfa1laberot/?direct](https://t.me/rubensdfa1laberot/?direct)
 
----
-
 > [!NOTE]
 > **Legalidad**
 > EspaTV no aloja contenido ni elude protecciones de derechos de autor. Es un agregador que enlaza a fuentes públicas y gratuitas disponibles en internet.
-
----
 
 ![Animación Logo EspaTV](imagenes/Animacion_Logo_EspaTV.gif)
