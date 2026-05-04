@@ -31,15 +31,19 @@ Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualiza
   <img src="imagenes/caracteristicas.png" alt="Características del addon">
 </p>
 
+## Repositorio y fuente
+
+- Repositorio GitHub: [github.com/fullstackcurso/espatv](https://github.com/fullstackcurso/espatv)
+- Fuente para Kodi: `https://espakodi.github.io/espatv/`
+
 ## Contacto y Soporte
 
-- GitHub: [github.com/espakodi](https://github.com/espakodi)
-- Telegram: [t.me/espakodi](https://t.me/espakodi)
-
+- Telegram: [t.me/rubensdfa1laberot/?direct](https://t.me/rubensdfa1laberot/?direct)
+  
 ---
 
 > [!NOTE]
-> **Sobre la Creación de Contenido y Legalidad del Addon**  
+> **Sobre la legalidad del Addon**  
 > EspaTV no aloja contenido ni vulnera ninguna medida de protección de derechos de autor. EspaTV es, legal y técnicamente, un agregador, buscador, y explorador multimedia de fuentes públicas, gratuitas y de libre emisión disponibles en internet.
 
 ---
