@@ -36,7 +36,6 @@ SHA256: 82128a584d0f8d10fdd127405f3af8322ae58b9d402389075374b696c71b43de
 <p align="left">
   <img src="imagenes/caracteristicas.png" alt="Características del addon">
 </p>
-&nbsp;
 
 ## Contacto
 
