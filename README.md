@@ -33,7 +33,6 @@ Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualiza
 
 ## Repositorio y fuente
 
-- Repositorio GitHub: [github.com/fullstackcurso/espatv](https://github.com/fullstackcurso/espatv)
 - Fuente para Kodi: `https://espakodi.github.io/espatv/`
 
 ## Contacto y Soporte
