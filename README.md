@@ -43,6 +43,5 @@ SHA256: 82128a584d0f8d10fdd127405f3af8322ae58b9d402389075374b696c71b43de
 > [!NOTE]
 > **Legalidad:**
 > EspaTV no aloja contenido ni elude protecciones de derechos de autor. Es un agregador que enlaza a fuentes públicas y gratuitas disponibles en internet.
-<br>
-<br>
+
 ![Animación Logo EspaTV](imagenes/Animacion_Logo_EspaTV.gif)
