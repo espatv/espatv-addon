@@ -1,5 +1,10 @@
 # EspaTV - Repositorio para Kodi
 
+## Verificación de integridad EspaTV 2.0.0
+
+-MD5:    592e69d91748d18506c6b141fa2aa985
+-SHA256: 82128a584d0f8d10fdd127405f3af8322ae58b9d402389075374b696c71b43de
+
 ## Descripción
 
 Repositorio oficial del addon **EspaTV** para Kodi. Permite instalar y actualizar automáticamente el addon desde Kodi.
