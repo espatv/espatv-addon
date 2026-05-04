@@ -2,12 +2,12 @@
 
 Addon todo en uno para contenido en castellano: TDT, RTVE a la carta, YouTube, Dailymotion, radio, podcasts, top películas y series, filmoteca, prensa, música, documentales, audiolibros, noticias, meteorología, agenda deportiva, mercados, precio de la luz, gasolineras, tráfico (DGT) y mucho más.
 &nbsp;
-
+<br>
 ## Fuente e instrucciones de instalación
 
 [https://espakodi.github.io/espatv/](https://espakodi.github.io/espatv/)
 &nbsp;
-
+<br>
 ## Instalación paso a paso
 
 ### Opción 1 — Desde repositorio (recomendado, recibe actualizaciones automáticas)
@@ -25,7 +25,7 @@ Addon todo en uno para contenido en castellano: TDT, RTVE a la carta, YouTube, D
 1. Descarga el `.zip` desde [github.com/fullstackcurso/espatv/releases](https://github.com/fullstackcurso/espatv/releases)
 2. En Kodi ve a **Add-ons** → icono de paquete → **Instalar desde archivo ZIP** → selecciona el archivo
 &nbsp;
-
+<br>
 ## Verificación de integridad — v2.0.0
 
 ```
